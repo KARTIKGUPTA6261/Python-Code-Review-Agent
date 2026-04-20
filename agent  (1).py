@@ -14,7 +14,7 @@ Usage:
     print(result["faithfulness"])
 
 Submit this file along with:
-    - day13_capstone.ipynb
+    - Capstone_Project.ipynb
     - capstone_streamlit.py
 """
 
